@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhijan Mallick</h1>
 <h3 align="center">Passionate learner</h3>
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijan23&label=Profile%20views&color=0e75b6&style=flat" alt="abhijan23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijan23" alt="abhijan23" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhijan1904" target="blank"><img src="https://img.shields.io/twitter/follow/abhijan1904?logo=twitter&style=for-the-badge" alt="abhijan1904" /></a> </p>
 
