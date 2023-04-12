@@ -7,7 +7,7 @@ I'm Abhijan Mallick, a passionate learner, coder & explorer from India, currentl
 
 - :telescope: Exploring new Technical Contents and ideas.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijan23&label=Profile%20views&color=0e75b6&style=flat" alt="abhijan23" /> </p>
 
